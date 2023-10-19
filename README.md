@@ -1,5 +1,12 @@
 # Java RESTful API
 
+## Tecnologias utilizadas
+ - Java 17
+ - Spring Boot 3
+ - Spring Data JPA
+ - OpenAPI (swagger)
+ - Railway
+
 ## Diagrama de Classes
 
 ```mermaid
