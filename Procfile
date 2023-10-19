@@ -1,0 +1,1 @@
+web: java -jar target/java-restful-api-0.0.1-SNAPSHOT.jar
